@@ -1,0 +1,15 @@
+C:\Users\a_arz\Documents\Task1\bin\Release\net7.0\Task1.exe
+C:\Users\a_arz\Documents\Task1\bin\Release\net7.0\Task1.deps.json
+C:\Users\a_arz\Documents\Task1\bin\Release\net7.0\Task1.runtimeconfig.json
+C:\Users\a_arz\Documents\Task1\bin\Release\net7.0\Task1.dll
+C:\Users\a_arz\Documents\Task1\bin\Release\net7.0\Task1.pdb
+C:\Users\a_arz\Documents\Task1\obj\Release\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\a_arz\Documents\Task1\obj\Release\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_arz\Documents\Task1\obj\Release\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\a_arz\Documents\Task1\obj\Release\net7.0\Task1.AssemblyInfo.cs
+C:\Users\a_arz\Documents\Task1\obj\Release\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\a_arz\Documents\Task1\obj\Release\net7.0\Task1.dll
+C:\Users\a_arz\Documents\Task1\obj\Release\net7.0\refint\Task1.dll
+C:\Users\a_arz\Documents\Task1\obj\Release\net7.0\Task1.pdb
+C:\Users\a_arz\Documents\Task1\obj\Release\net7.0\Task1.genruntimeconfig.cache
+C:\Users\a_arz\Documents\Task1\obj\Release\net7.0\ref\Task1.dll

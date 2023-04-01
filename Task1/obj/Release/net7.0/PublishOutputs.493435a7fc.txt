@@ -1,0 +1,5 @@
+C:\Users\a_arz\Documents\Task1\bin\Release\net7.0\publish\Task1.exe
+C:\Users\a_arz\Documents\Task1\bin\Release\net7.0\publish\Task1.dll
+C:\Users\a_arz\Documents\Task1\bin\Release\net7.0\publish\Task1.deps.json
+C:\Users\a_arz\Documents\Task1\bin\Release\net7.0\publish\Task1.runtimeconfig.json
+C:\Users\a_arz\Documents\Task1\bin\Release\net7.0\publish\Task1.pdb
