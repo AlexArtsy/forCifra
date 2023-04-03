@@ -4,13 +4,13 @@
     {
         static void Main(string[] args)
         {
-            int getNextValue(int n, int m, int currentValue) 
+            long getNextValue(long maxValue, long m, long currentValue, long startValue) 
             {
-                for(int i = 1; i < m; i++)
+                for(long i = 1; i < m; i++)
                 {
-                    if(currentValue == n)
+                    if(currentValue == maxValue)
                     {
-                        currentValue = 1;
+                        currentValue = startValue;
                     }
                     else
                     {
@@ -19,11 +19,12 @@
                 }
                 return currentValue;
             }
-
-            int n = Int32.Parse(args[0]);
-            int m = Int32.Parse(args[1]);
-            List<int> list = new List<int> (){ 1 };
-            int currentValue = 0;
+            long n = Int64.Parse(args[0]);
+            long m = Int64.Parse(args[1]);
+            long startValue = 1;//    Int64.Parse(args[2]);
+            long maxValue = startValue + n - 1;
+            List<long> list = new List<long> (){ startValue };
+            long currentValue = -999999999990;  // сори за костыль (:
 
             if(n == 0)
             {
@@ -31,10 +32,10 @@
                 return;
             }
 
-            while(currentValue != 1)
+            while(currentValue != startValue)
             {
-                currentValue = getNextValue(n, m, list.Last());
-                if(currentValue != 1)
+                currentValue = getNextValue(maxValue, m, list.Last(), startValue);
+                if(currentValue != startValue)
                 {
                     list.Add(currentValue);
                 }
